@@ -49,8 +49,7 @@ body{
     padding-bottom: 25px;
     padding-top: 25px;
     background-color: greenyellow;
-    color:darkgreen;
-
+    color:rgb(14, 85, 14);
 
 }
 
@@ -59,4 +58,9 @@ body{
     position: absolute;
     right: 10px;
     top: 10px;
+}
+
+#circle{
+    font-size: 75px;
+    margin-bottom: 5px;
 }
